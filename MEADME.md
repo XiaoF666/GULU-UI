@@ -1,2 +1,2 @@
-一个Vuewen'ui 组件
+一个Vue'ui 组件
 作者：我
