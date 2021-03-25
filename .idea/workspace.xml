@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe2fd23-9a6f-4484-9706-91e0c236f549" name="Default Changelist" comment="npm init">
-      <change afterPath="$PROJECT_DIR$/button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MEADME.md" beforeDir="false" afterPath="$PROJECT_DIR$/MEADME.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1qCnl6lpOLZKjmNhi9UT6OKA7m2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,7 +59,7 @@
       <updated>1616592608893</updated>
       <workItem from="1616592616428" duration="1024000" />
       <workItem from="1616593678438" duration="4121000" />
-      <workItem from="1616634460324" duration="911000" />
+      <workItem from="1616634460324" duration="1892000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1616593962164</created>
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616594627313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="npm init">
+      <created>1616635659069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616635659069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +108,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成按钮的样式" />
     <MESSAGE value="npm init" />
     <option name="LAST_COMMIT_MESSAGE" value="npm init" />
   </component>

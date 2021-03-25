@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/XiaoF666/GULU-UI/issues"
   },
-  "homepage": "https://github.com/XiaoF666/GULU-UI#readme"
+  "homepage": "https://github.com/XiaoF666/GULU-UI#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
