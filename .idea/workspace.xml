@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efe2fd23-9a6f-4484-9706-91e0c236f549" name="Default Changelist" comment="安装了 parcel">
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="efe2fd23-9a6f-4484-9706-91e0c236f549" name="Default Changelist" comment="加入了 parecl，将 button 组件改为单文件组件" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +61,7 @@
       <workItem from="1616592616428" duration="1024000" />
       <workItem from="1616593678438" duration="4121000" />
       <workItem from="1616634460324" duration="7950000" />
-      <workItem from="1616736062528" duration="315000" />
+      <workItem from="1616736062528" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1616593962164</created>
@@ -120,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616636409075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="加入了 parecl，将 button 组件改为单文件组件">
+      <created>1616736664207</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616736664207</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +141,7 @@
     <MESSAGE value="完成按钮的样式" />
     <MESSAGE value="npm init" />
     <MESSAGE value="安装了 parcel" />
-    <option name="LAST_COMMIT_MESSAGE" value="安装了 parcel" />
+    <MESSAGE value="加入了 parecl，将 button 组件改为单文件组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入了 parecl，将 button 组件改为单文件组件" />
   </component>
 </project>
